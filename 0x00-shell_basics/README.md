@@ -6,3 +6,4 @@ list hidden content
 display directory content in long format with user and group id
 create a directory
 move directory
+delete directory
