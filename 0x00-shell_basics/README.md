@@ -8,3 +8,4 @@ create a directory
 move directory
 delete file in a directory
 delete directory
+go to previous directory
