@@ -11,3 +11,4 @@ delete directory
 go to previous directory
 list files in a directory
 file type
+symbolic link
