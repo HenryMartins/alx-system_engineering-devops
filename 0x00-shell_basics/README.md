@@ -14,3 +14,4 @@ file type
 symbolic link
 copy html files
 copy uppercase files
+remove specific files
