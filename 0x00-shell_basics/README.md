@@ -16,3 +16,4 @@ copy html files
 copy uppercase files
 remove specific files
 tree directory
+sorted listing
