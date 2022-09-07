@@ -9,3 +9,4 @@ move directory
 delete file in a directory
 delete directory
 go to previous directory
+list files in a directory
