@@ -7,3 +7,4 @@ add execute permission to the owner of file
 execute permission to owner, group owner and read permission to other users
 execution permission to owner,group owner and other users
 set all permissions to other users
+seting mode to a file
