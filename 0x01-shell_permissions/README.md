@@ -13,3 +13,4 @@ directory permissions
 create a directory with a specified permission
 change group owner
 change owner and group owner
+symbolic permissions
