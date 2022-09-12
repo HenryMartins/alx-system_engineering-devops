@@ -10,3 +10,4 @@ set all permissions to other users
 seting mode to a file
 reference permission
 directory permissions
+create a directory with a specified permission
