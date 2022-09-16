@@ -6,3 +6,4 @@ display last ten lines of a file
 display first lines of a file
 display third line of a file
 creates a file name with a new line
+change working directory state
