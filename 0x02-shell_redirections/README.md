@@ -9,3 +9,4 @@ creates a file name starting with a new line
 overwrite a file
 duplicate line of file
 no more js
+count directories
