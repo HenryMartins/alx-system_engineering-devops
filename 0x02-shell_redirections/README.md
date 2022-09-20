@@ -10,3 +10,4 @@ overwrite a file
 duplicate line of file
 no more js
 count directories
+print out 10 newest files in a directory
