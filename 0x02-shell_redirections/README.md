@@ -12,3 +12,4 @@ no more js
 count directories
 print out 10 newest file in a directory
 takes a list of words as input and prints only words that appear exactly once
+Display lines containing the pattern “root” from the file /etc/passwd
