@@ -10,4 +10,5 @@ overwrite a file
 duplicate line of file
 no more js
 count directories
-print out 10 newest files in a directory
+print out 10 newest file in a directory
+takes a list of words as input and prints only words that appear exactly once
