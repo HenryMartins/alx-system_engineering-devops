@@ -12,4 +12,5 @@ displays the result of BREATH to the power LOVE
 converts a number from base 2 to base 10.
  prints all possible combinations of two letters, except oo.
  prints a number with two decimal places, followed by a new line.
+converts a number from base 10 to base 16.
 
