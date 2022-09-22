@@ -6,4 +6,5 @@ counts the number of directories in the PATH.
  lists all local variables and environment variables, and functions.
 creates a new local variable.
 creates a new global variable.
+ prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
