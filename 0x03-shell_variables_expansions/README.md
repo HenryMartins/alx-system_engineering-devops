@@ -8,4 +8,5 @@ creates a new local variable.
 creates a new global variable.
  prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 prints the result of POWER divided by DIVIDE, followed by a new line.
+displays the result of BREATH to the power LOVE
 
