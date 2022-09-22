@@ -1,0 +1,2 @@
+#!/bin/baash
+paste -- | cut -d$'\t' -f1

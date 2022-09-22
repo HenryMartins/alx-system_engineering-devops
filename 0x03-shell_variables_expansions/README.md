@@ -14,4 +14,4 @@ converts a number from base 2 to base 10.
  prints a number with two decimal places, followed by a new line.
 converts a number from base 10 to base 16.
 encodes and decodes text using the rot13 encryption. Assume ASCII
-
+ther line from the input, starting with the first line.
