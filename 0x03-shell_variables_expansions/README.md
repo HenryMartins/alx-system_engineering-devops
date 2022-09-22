@@ -1,2 +1,3 @@
 creates an alias.
-prints hello user, where user is the current Linux user.
+prints hello user, where user is the current Linux user
+Add /action to the PATH. /action
